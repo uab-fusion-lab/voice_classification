@@ -85,6 +85,8 @@ class SoundDataset(Dataset):
 
         # Concatenate all waveforms along the time dimension
         waveform = torch.cat(waveform_list, dim=0)
+        if len(waveform) != 10:
+            a = 10
 
         label = self.labels_df[idx]
 
