@@ -1,0 +1,203 @@
+Epoch 1, Loss: 0.9583, Accuracy: 56.11%
+tensor([2, 2, 1, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 1, 1, 1])
+tensor([1, 1, 2, 1])
+tensor([1, 1, 1, 2])
+tensor([1, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+Accuracy of the model on the test set: 60.00%
+Epoch 2, Loss: 0.8008, Accuracy: 63.89%
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 2, 2])
+tensor([1, 1, 2, 1])
+tensor([2, 2, 2, 2])
+tensor([1, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+Accuracy of the model on the test set: 65.00%
+Epoch 3, Loss: 0.7350, Accuracy: 65.00%
+tensor([2, 2, 1, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 1, 2, 2])
+tensor([1, 1, 2, 1])
+tensor([1, 1, 2, 2])
+tensor([1, 2, 1, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 1, 2])
+tensor([1, 2, 2, 2])
+Accuracy of the model on the test set: 75.00%
+Epoch 4, Loss: 0.6451, Accuracy: 74.44%
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 1, 2, 2])
+tensor([1, 1, 2, 1])
+tensor([1, 1, 2, 2])
+tensor([1, 2, 1, 2])
+tensor([1, 2, 2, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+Accuracy of the model on the test set: 75.00%
+Epoch 5, Loss: 0.5884, Accuracy: 73.89%
+tensor([2, 2, 1, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 1, 2, 2])
+tensor([1, 1, 2, 1])
+tensor([1, 1, 2, 2])
+tensor([1, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+Accuracy of the model on the test set: 75.00%
+Epoch 6, Loss: 0.4902, Accuracy: 80.00%
+tensor([2, 2, 1, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 1, 2, 2])
+tensor([1, 1, 2, 1])
+tensor([1, 1, 2, 2])
+tensor([1, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+Accuracy of the model on the test set: 75.00%
+Epoch 7, Loss: 0.4321, Accuracy: 79.44%
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 2, 2])
+tensor([1, 1, 2, 1])
+tensor([1, 1, 2, 2])
+tensor([1, 2, 1, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 1, 2])
+tensor([1, 2, 2, 2])
+Accuracy of the model on the test set: 75.00%
+Epoch 8, Loss: 0.4003, Accuracy: 85.56%
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 1, 2, 1])
+tensor([1, 1, 2, 1])
+tensor([1, 1, 2, 2])
+tensor([1, 2, 1, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 1, 2])
+tensor([1, 2, 2, 2])
+Accuracy of the model on the test set: 65.00%
+Epoch 9, Loss: 0.5227, Accuracy: 81.11%
+tensor([2, 2, 1, 2])
+tensor([2, 1, 2, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 2, 1])
+tensor([1, 1, 2, 1])
+tensor([1, 1, 1, 2])
+tensor([1, 2, 1, 2])
+tensor([1, 2, 2, 1])
+tensor([2, 2, 1, 2])
+tensor([1, 2, 2, 2])
+Accuracy of the model on the test set: 55.00%
+Epoch 10, Loss: 0.3907, Accuracy: 83.89%
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 2, 1])
+tensor([1, 1, 2, 1])
+tensor([1, 1, 2, 2])
+tensor([1, 2, 1, 2])
+tensor([2, 2, 2, 2])
+tensor([2, 2, 1, 2])
+tensor([2, 2, 2, 2])
+Accuracy of the model on the test set: 70.00%
+
+
+
+Epoch 1, Loss: 22.9702, Accuracy: 46.88%
+tensor([1, 2, 1, 2, 2, 1, 2, 2, 1, 2])
+tensor([2, 2, 1, 2, 2, 2, 2, 1, 2, 1])
+tensor([2, 2, 2, 0, 1, 2, 1, 2, 2, 2])
+tensor([2, 1, 2, 2, 2, 2, 2, 1, 1, 2])
+tensor([2, 1, 2, 2, 1, 1, 2, 2, 2, 2])
+tensor([2, 2, 1, 1, 2, 1, 2, 2, 2, 2])
+tensor([2, 1, 2, 2, 0, 0, 2, 2, 1, 2])
+tensor([2, 2, 2, 2, 2, 1, 1, 2, 2, 2])
+Accuracy of the model on the test set: 50.00%
+Epoch 2, Loss: 3.0988, Accuracy: 78.12%
+tensor([1, 2, 1, 2, 2, 1, 2, 2, 1, 2])
+tensor([1, 2, 1, 2, 2, 2, 1, 1, 2, 1])
+tensor([2, 2, 2, 0, 1, 2, 1, 2, 2, 2])
+tensor([2, 1, 2, 2, 1, 1, 2, 2, 1, 1])
+tensor([2, 1, 2, 2, 1, 1, 2, 2, 2, 2])
+tensor([2, 2, 1, 1, 1, 1, 2, 1, 2, 1])
+tensor([2, 1, 2, 2, 0, 0, 2, 2, 1, 2])
+tensor([1, 1, 1, 2, 1, 1, 1, 2, 2, 1])
+Accuracy of the model on the test set: 42.50%
+Epoch 3, Loss: 0.2664, Accuracy: 94.38%
+tensor([1, 2, 1, 2, 2, 1, 2, 2, 1, 2])
+tensor([1, 2, 1, 2, 2, 2, 2, 1, 2, 2])
+tensor([2, 2, 2, 0, 1, 2, 1, 2, 2, 2])
+tensor([2, 1, 2, 2, 1, 1, 2, 2, 1, 1])
+tensor([2, 1, 2, 2, 1, 1, 2, 2, 2, 2])
+tensor([2, 2, 1, 1, 2, 1, 2, 1, 2, 1])
+tensor([2, 1, 2, 2, 0, 0, 2, 2, 1, 2])
+tensor([2, 2, 1, 1, 1, 1, 2, 2, 2, 2])
+Accuracy of the model on the test set: 47.50%
+Epoch 4, Loss: 0.0529, Accuracy: 98.75%
+tensor([1, 2, 1, 2, 2, 1, 2, 2, 1, 2])
+tensor([1, 2, 1, 2, 2, 2, 2, 1, 2, 2])
+tensor([2, 2, 2, 0, 1, 2, 1, 2, 2, 2])
+tensor([2, 2, 2, 2, 2, 2, 2, 2, 2, 1])
+tensor([2, 1, 2, 2, 1, 1, 2, 2, 2, 2])
+tensor([2, 2, 2, 2, 2, 1, 2, 1, 2, 1])
+tensor([2, 1, 2, 2, 0, 0, 2, 2, 1, 2])
+tensor([2, 2, 2, 1, 2, 2, 2, 2, 2, 2])
+Accuracy of the model on the test set: 60.00%
+Epoch 5, Loss: 0.0728, Accuracy: 98.12%
+tensor([1, 2, 1, 2, 2, 1, 2, 2, 1, 2])
+tensor([1, 2, 1, 2, 2, 2, 2, 1, 2, 2])
+tensor([2, 2, 2, 0, 1, 2, 1, 2, 2, 2])
+tensor([2, 2, 2, 2, 2, 2, 2, 2, 2, 2])
+tensor([2, 1, 2, 2, 1, 1, 2, 2, 2, 2])
+tensor([2, 2, 2, 2, 2, 1, 2, 1, 2, 1])
+tensor([2, 1, 2, 2, 0, 0, 2, 2, 1, 2])
+tensor([2, 2, 2, 1, 2, 2, 2, 2, 2, 2])
+Accuracy of the model on the test set: 62.50%
+Epoch 6, Loss: 0.0344, Accuracy: 99.38%
+tensor([1, 2, 1, 2, 2, 1, 2, 2, 1, 2])
+tensor([1, 2, 1, 2, 2, 2, 2, 1, 2, 2])
+tensor([2, 2, 2, 0, 1, 2, 1, 2, 2, 2])
+tensor([2, 2, 2, 2, 2, 2, 2, 2, 2, 1])
+tensor([2, 1, 2, 2, 1, 1, 2, 2, 2, 2])
+tensor([2, 2, 2, 2, 2, 2, 2, 1, 2, 1])
+tensor([2, 1, 2, 2, 0, 0, 2, 2, 1, 2])
+tensor([2, 2, 2, 1, 2, 2, 2, 2, 2, 2])
+Accuracy of the model on the test set: 57.50%
+Epoch 7, Loss: 0.0275, Accuracy: 100.00%
+tensor([1, 2, 1, 2, 2, 1, 2, 2, 1, 2])
+tensor([1, 2, 1, 2, 2, 2, 2, 1, 2, 2])
+tensor([2, 2, 2, 0, 1, 2, 1, 2, 2, 2])
+tensor([2, 2, 2, 2, 2, 2, 2, 2, 2, 1])
+tensor([2, 1, 2, 2, 1, 1, 2, 2, 2, 2])
+tensor([2, 2, 2, 2, 2, 2, 2, 1, 2, 1])
+tensor([2, 1, 2, 2, 0, 0, 2, 2, 1, 2])
+tensor([2, 2, 2, 1, 2, 2, 2, 2, 2, 2])
+Accuracy of the model on the test set: 57.50%
+Epoch 8, Loss: 0.0193, Accuracy: 100.00%
+tensor([1, 2, 1, 2, 2, 1, 2, 2, 1, 2])
+tensor([1, 2, 1, 2, 2, 2, 2, 1, 2, 2])
+tensor([2, 2, 2, 0, 1, 2, 1, 2, 2, 2])
+tensor([2, 2, 2, 2, 2, 2, 2, 2, 2, 1])
+tensor([2, 1, 2, 2, 1, 1, 2, 2, 2, 2])
+tensor([2, 2, 2, 2, 2, 2, 2, 1, 2, 2])
+tensor([2, 1, 2, 2, 0, 0, 2, 2, 1, 2])
+tensor([2, 2, 2, 1, 2, 2, 2, 2, 2, 2])
+Accuracy of the model on the test set: 60.00%
